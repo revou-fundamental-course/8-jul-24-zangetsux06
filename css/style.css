@@ -73,6 +73,15 @@ input[type=number] {
     border-radius: 6px;
     padding: 12px;
 }
+
+.table-result{
+    padding: none;
+    text-align: left;
+    margin: none;
+    background-color: aliceblue;
+    border: 1px solid lightblue;
+    }
+
  /* Responsive Website On Mobile */
  @media only screen and (max-width: 425px){
     main{
@@ -84,4 +93,13 @@ input[type=number] {
 
     }
  }
+
+ #main-footer{
+    text-align: center;
+    color: grey;
+ }
+
+
+
+
 
